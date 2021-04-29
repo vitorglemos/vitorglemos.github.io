@@ -9,7 +9,7 @@ This project is private and therefore is unavailable for access. System to detec
 
 **Natural Language Understanding**: Understanding natural language or interpreting natural language is a subtopic of natural language processing in artificial intelligence that deals with understanding machine reading. In this case, it can be used to detect textual patterns in the creation of malicious urls.
 
-<center><img src="/image/natural_l.png" width="500" height="300"></center>
+<center><img src="/image/natural_l.png" width="550"></center>
 
 ---
 ### Detecting malicious urls using Natural Language Processing
@@ -35,15 +35,21 @@ This project is private and therefore is unavailable for access. System to class
 
 This project is private and therefore is unavailable for access. Here, reverse engineering techniques are used to extract characteristics from possibly malicious executable files. We use techniques to analyze and create a static detection method based only on the characteristics of malicious files, without using behavioral analysis.
 
+**Ensemble Methods**: this is a technique for combining several different models and thus producing improved results. These methods are commonly used to produce accurate solutions through a combined vote, which considers the result of several models at the same time.
+
 ---
 ### APK Malware Detection using Machine Learning Models
 <img src="https://img.shields.io/pypi/pyversions/pip"> <img src="https://img.shields.io/badge/-tensorflow-orange"> <img src="https://img.shields.io/badge/-keras-red"> <img src="https://img.shields.io/badge/-xgboost-yellowgreen">
+
+This project is private and therefore is unavailable for access. Here, we use techniques to extract features from .apk files, extension of applications for android systems. Several machine learning models were used and combined using essemble methods to increase the accuracy of the models and decrease the rate of false positives.
 
 ---
 ### Visual recognition for phishing classification
 <img src="https://img.shields.io/pypi/pyversions/pip"> <img src="https://img.shields.io/badge/-tensorflow-orange"> <img src="https://img.shields.io/badge/-keras-red"> <img src="https://img.shields.io/badge/-opencv-green"> <img src="https://img.shields.io/badge/-yolov3-lightgrey"> <img src="https://img.shields.io/badge/-xgboost-yellowgreen">
 
-This project is private and therefore is unavailable for access. In this project, computer vision techniques are used combined with the power of deep neural networks to detect false sites through images.
+This project is private and therefore is unavailable for access. In this project, computer vision techniques are used combined with the power of deep neural networks to detect false sites through images. 
+
+**Object Detection**: Object detection is a technology used in computer vision to detect instances of objects in image. Here we use it to detect important features on fake pages.
 
 <center><img src="/image/detection-image.png" width="500"></center>
 

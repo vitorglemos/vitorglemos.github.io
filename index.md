@@ -54,6 +54,37 @@ This project is private and therefore is unavailable for access. In this project
 <center><img src="/image/detection-image.png" width="500"></center>
 
 ---
+### Sentiments Analysis in texts and images
+<img src="https://img.shields.io/pypi/pyversions/pip"> <img src="https://img.shields.io/badge/-tensorflow-orange"> <img src="https://img.shields.io/badge/-keras-red"> <img src="https://img.shields.io/badge/-opencv-green">
+
+**Sentiments Image Recognition**
+
+**Natural Language Processing**
+
+## Data Analysis and Data Science
+---
+### Data Analysis: Global terrorism Open In Kaggle
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](ttps://www.kaggle.com/vitorgamalemos/an-analysis-of-terrorism-around-the-world) <img src="https://img.shields.io/pypi/pyversions/pip"> <img src="https://img.shields.io/badge/-matplotlib-blueviolet"> <img src="https://img.shields.io/badge/-seaborn%20-yellowgreen">
+
+This project uses a database on global terrorism between 1970-2017. In this analysis, I separated the most common types of terrorism by territory, including an infographic and details of attacks in the United States. The database contains more than 180,000 Terrorist Attacks.
+
+<center><img src="/image/global_analysis.png"  width="550"></center>
+
+---
+### Data Analysis: Boston crimes visualization
+ [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://www.kaggle.com/vitorgamalemos/visualization-boston-crimes) <img src="https://img.shields.io/pypi/pyversions/pip"> <img src="https://img.shields.io/badge/-matplotlib-blueviolet"> <img src="https://img.shields.io/badge/-seaborn%20-yellowgreen">
+
+Crime incident reports are provided by Boston Police Department (BPD) to document the initial details surrounding an incident to which BPD officers respond. This is a dataset containing records from the new crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred. This project is an analysis related to these reports of crimes occurred in Boston.
+
+<center><img src="/image/boston.png" width="550"></center>
+
+### Data Analysis: Global temperature
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://www.kaggle.com/vitorgamalemos/is-global-temperature-rising) <img src="https://img.shields.io/pypi/pyversions/pip"> <img src="https://img.shields.io/badge/-matplotlib-blueviolet"> <img src="https://img.shields.io/badge/-seaborn%20-yellowgreen">
+
+Global warming is one of the most debated subjects by scientists. Global warming is the long-term rise in the average temperature of the earth. So far, a lot of data proves that this is happening, but does it is true? This project has a complete analysis of global temperature using climate change data collected since 1750.
+
+<center><img src="/image/global_temp.png" width="550"></center>
+
 ## Generative Adversarial Networks (GANs)
 ---
 ### Generating images using GANs: applying to MNIST dataset

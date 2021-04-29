@@ -62,6 +62,7 @@ This project is private and therefore is unavailable for access. In this project
 **Natural Language Processing**
 
 ## Data Analysis and Data Science
+
 ---
 ### Data Analysis: Global terrorism Open In Kaggle
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](ttps://www.kaggle.com/vitorgamalemos/an-analysis-of-terrorism-around-the-world) <img src="https://img.shields.io/pypi/pyversions/pip"> <img src="https://img.shields.io/badge/-matplotlib-blueviolet"> <img src="https://img.shields.io/badge/-seaborn%20-yellowgreen">
@@ -78,6 +79,7 @@ Crime incident reports are provided by Boston Police Department (BPD) to documen
 
 <center><img src="/image/boston.png" width="550"></center>
 
+---
 ### Data Analysis: Global temperature
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://www.kaggle.com/vitorgamalemos/is-global-temperature-rising) <img src="https://img.shields.io/pypi/pyversions/pip"> <img src="https://img.shields.io/badge/-matplotlib-blueviolet"> <img src="https://img.shields.io/badge/-seaborn%20-yellowgreen">
 

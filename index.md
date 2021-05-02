@@ -61,15 +61,26 @@ This project is private and therefore is unavailable for access. In this project
 
 **Natural Language Processing**
 
-## Data Analysis and Data Science
+## Convolutional Neural Network
 
+--- 
+### Finding cellphone on images using CNN
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://www.kaggle.com/vitorgamalemos/finding-cellphone-on-image-using-cnn) <img src="https://img.shields.io/pypi/pyversions/pip"> <img src="https://img.shields.io/badge/-tensorflow-orange"> <img src="https://img.shields.io/badge/-keras-red">
+
+This project uses convolutional neural networks to detect whether there is a particular object in the image or not. In this case, I used a database with smartphone photos to find them in other pictures. Initially, I trained a neural network with smartphone images and designed an algorithm to cycle through parts of the picture until I found the object.
+
+**Smartphone Image Dataset**: [Open in Kaggle](https://www.kaggle.com/vitorgamalemos/cellphone)
+
+<center><img src="/image/cellphones.png" width="550"></center>
+
+## Data Analysis and Data Science
 ---
 ### Data Analysis: Global terrorism Open In Kaggle
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](ttps://www.kaggle.com/vitorgamalemos/an-analysis-of-terrorism-around-the-world) <img src="https://img.shields.io/pypi/pyversions/pip"> <img src="https://img.shields.io/badge/-matplotlib-blueviolet"> <img src="https://img.shields.io/badge/-seaborn%20-yellowgreen">
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://www.kaggle.com/vitorgamalemos/an-analysis-of-terrorism-around-the-world) <img src="https://img.shields.io/pypi/pyversions/pip"> <img src="https://img.shields.io/badge/-matplotlib-blueviolet"> <img src="https://img.shields.io/badge/-seaborn%20-yellowgreen">
 
 This project uses a database on global terrorism between 1970-2017. In this analysis, I separated the most common types of terrorism by territory, including an infographic and details of attacks in the United States. The database contains more than 180,000 Terrorist Attacks.
 
-<center><img src="/image/global_analysis.png"  width="550"></center>
+<center><img src="/image/global_analysis.png"  width="500"></center>
 
 ---
 ### Data Analysis: Boston crimes visualization
@@ -86,6 +97,7 @@ Crime incident reports are provided by Boston Police Department (BPD) to documen
 Global warming is one of the most debated subjects by scientists. Global warming is the long-term rise in the average temperature of the earth. So far, a lot of data proves that this is happening, but does it is true? This project has a complete analysis of global temperature using climate change data collected since 1750.
 
 <center><img src="/image/global_temp.png" width="550"></center>
+
 
 ## Generative Adversarial Networks (GANs)
 ---

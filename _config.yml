@@ -1,19 +1,14 @@
-title: <p align="center"> Vitor Lemos </p>
-
-logo: "/image/profile.png?raw=true"
-
-description:
-  <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/vitorgamalemos/">LinkedIn</a> |
-  <a href="https://github.com/vitorglemos/">GitHub</a>
-  </p>
-  
-  <p align="justify">
-  Data Scientist | Machine Learning Engineer
-  <br><br>
-  Experience 
-  <br><br>
-  </p>
-  
-theme: jekyll-theme-minimal
+[
+ {
+  "username": "vitorglemos",
+  "name": "Vitor G. Lemos",
+  "userimg": "https://avatars1.githubusercontent.com/u/70831294?v=4",
+  "sort": "star",
+  "order": "desc",
+  "includeFork": true,
+  "theme": "light.css",
+  "types": [
+   "owner"
+  ],
+ }
+]

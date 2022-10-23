@@ -6,7 +6,7 @@
   "sort": "star",
   "order": "desc",
   "includeFork": true,
-  "theme": "./assets/themes/dark.css",
+  "theme": "dark.css",
   "types": [
    "owner"
   ],

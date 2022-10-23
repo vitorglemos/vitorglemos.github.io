@@ -2,7 +2,7 @@
  {
   "username": "vitorglemos",
   "name": "Vitor G. Lemos",
-  "userimg": "https://avatars1.githubusercontent.com/u/70831294?v=4",
+  "userimg": "https://avatars.githubusercontent.com/u/31148456?v=4",
   "sort": "star",
   "order": "desc",
   "includeFork": true,
@@ -10,5 +10,9 @@
   "types": [
    "owner"
   ],
+  "twitter": null,
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
  }
 ]

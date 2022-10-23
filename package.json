@@ -11,12 +11,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-    "name": "@imfunniee and community",
+    "name": "@vitorglemos and community",
     "email": "imfunny@wybemf.com",
-    "url": "https://imfunniee.github.io"
+    "url": "https://vitorglemos.github.io"
   },
-  "bugs": "https://github.com/imfunniee/gitfolio/issues",
-  "homepage": "https://github.com/imfunniee/gitfolio",
+  "bugs": "https://github.com/vitorglemos/gitfolio/issues",
+  "homepage": "https://github.com/vitorglemos/gitfolio",
   "keywords": [
     "personal-website",
     "github",
@@ -29,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/imfunniee/gitfolio"
+    "url": "https://github.com/vitorglemos/gitfolio"
   },
   "license": "GPL-3.0",
   "dependencies": {
